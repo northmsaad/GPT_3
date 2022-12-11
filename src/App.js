@@ -8,6 +8,7 @@ import Possibility from "../src/containers/possibility/Possibility";
 import CTA from "../src/components/cta/CTA";
 import Blog from "../src/containers/blog/Blog";
 import Footer from "../src/containers/footer/Footer";
+import "./App.css";
 const App = () => {
   return (
     <div className="App">
