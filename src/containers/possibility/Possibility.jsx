@@ -5,12 +5,12 @@ const Possibility = () => {
   return (
     <div className="gpt3__possibility section__padding" id="possibility">
       <div className="gpt3__possibility-image">
-        <img src={possibilityImage} alt="Possbility" />
+        <img src={possibilityImage} alt="possibility" />
       </div>
       <div className="gpt3__possibility-content">
         <h4>Request Early Access to Get Started</h4>
         <h1 className="gradient__text">
-          The possibilities are beyond your imagination
+          The possibilities are <br /> beyond your imagination
         </h1>
         <p>
           Yet bed any for travelling assistance indulgence unpleasing. Not
