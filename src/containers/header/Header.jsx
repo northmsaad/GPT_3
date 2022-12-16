@@ -10,10 +10,10 @@ const Header = () => {
           Let's Build Something amazing with GPT-3 OpenAi
         </h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem, at.
-          Laudantium porro delectus perferendis hic quos molestiae ipsum unde
-          eius. Fugit, aut nobis placeat numquam quaerat, perspiciatis ipsa,
-          repudiandae
+          Yet bed any for travelling assistance indulgence unpleasing. Not
+          thoughts all exercise blessing. Indulgence way everything joy
+          alteration boisterous the attachment. Party we years to order allow
+          asked of.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your E-mail Address" />
@@ -25,7 +25,7 @@ const Header = () => {
         </div>
       </div>
       <div className="gpt3__header-image">
-        <img src={ai} alt="AI Image" />
+        <img src={ai} alt="AI img" />
       </div>
     </div>
   );
